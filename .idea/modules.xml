@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Praktikum1/Praktikum1.iml" filepath="$PROJECT_DIR$/Praktikum1/Praktikum1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Praktikum2/Praktikum2.iml" filepath="$PROJECT_DIR$/Praktikum2/Praktikum2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Praktikum3/Praktikum3.iml" filepath="$PROJECT_DIR$/Praktikum3/Praktikum3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortingWorkbench/SortingWorkbench.iml" filepath="$PROJECT_DIR$/SortingWorkbench/SortingWorkbench.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Trees/Trees.iml" filepath="$USER_HOME$/Desktop/Trees/Trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/adp.iml" filepath="$PROJECT_DIR$/.idea/adp.iml" />
+    </modules>
+  </component>
+</project>
